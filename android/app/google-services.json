@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427058895658",
+    "project_id": "rn-locationthief",
+    "storage_bucket": "rn-locationthief.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427058895658:android:9ae6d39f2677ad362f1c53",
+        "android_client_info": {
+          "package_name": "com.locationthief"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWBnuKkZWZx32-RXztuJ6D54VN0oeKC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
